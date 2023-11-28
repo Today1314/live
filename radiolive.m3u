@@ -57,7 +57,7 @@ http://rscdn-qn-i.ajmide.com/r_11/11.m3u8
 http://rscdn-qn-i.ajmide.com/r_2/2.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海经典947.png" group-title="上海电台",经典947
 http://rscdn-qn-i.ajmide.com/r_10/10.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海经典947.png" group-title="上海电台",KFM981
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="上海电台",KFM981
 http://rscdn-qn-i.ajmide.com/r_1001/1001.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海故事广播.png" group-title="上海电台",上海故事广播
 http://rscdn-qn-i.ajmide.com/r_3/3.m3u8
