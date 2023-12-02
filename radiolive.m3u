@@ -44,11 +44,11 @@ https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海新闻广播.png" group-title="上海电台",上海新闻广播
 http://rscdn-qn-i.ajmide.com/r_7/7.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="上海电台",长三角之声
-http://rscdn-qn-i.ajmide.com/r_12/12.m3u8
+https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海交通广播.png" group-title="上海电台",上海交通广播
 http://rscdn-qn-i.ajmide.com/r_1/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/第一财经广播.png" group-title="上海电台",第一财经广播
-http://rscdn-qn-i.ajmide.com/r_5/5.m3u8
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/五星体育广播.png" group-title="上海电台",五星体育广播
 http://rscdn-qn-i.ajmide.com/r_4/4.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/动感101.png" group-title="上海电台",动感101
@@ -66,18 +66,18 @@ http://rscdn-qn-i.ajmide.com/r_6/6.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浦江之声.png" group-title="上海电台",浦江之声广播
 http://rscdn-qn-i.ajmide.com/r_8/8.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江之声.png" group-title="浙江电台",浙江之声
-http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江经济广播.png" group-title="浙江电台",财富广播
-http://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/动听968.png" group-title="浙江电台",动听968
-http://ali-m-l.cztv.com/channels/lantian/fm968/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江民生广播.png" group-title="浙江电台",民生996
-http://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江交通之声.png" group-title="浙江电台",交通之声
-http://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江旅游之声.png" group-title="浙江电台",旅游之声
-http://ali-m-l.cztv.com/channels/lantian/fm1045/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江城市之声.png" group-title="浙江电台",城市之声
-http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
+https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/988.png" group-title="浙江电台",浙江新闻广播
 http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
