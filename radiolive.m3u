@@ -81,6 +81,14 @@ https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/988.png" group-title="浙江电台",浙江新闻广播
 http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+#EXTINF:-1 group-title="    ┕嘉兴电台",嘉兴新闻综合广播
+http://play-a2.quklive.com/live/1675149682053306.m3u8
+#EXTINF:-1 group-title="    ┕嘉兴电台",嘉兴交通经济广播
+http://play-a2.quklive.com/live/1675149716969098.m3u8
+#EXTINF:-1 group-title="    ┕嘉兴电台",嘉兴音乐生活广播
+http://play-a2.quklive.com/live/1675149748146301.m3u8
+#EXTINF:-1 group-title="        ┕平湖电台",平湖人民广播电台
+http://play-a2.quklive.com/live/1690167926636110.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="境外电台",美国之音中文广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外电台",自由亚洲电台
