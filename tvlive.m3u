@@ -138,13 +138,13 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海频道",上海生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="上海频道",上海魅力足球（不稳定）
-http://123.60.111.12:4567/cqyx.php?id=mlzqHD
+http://123.60.111.12/sxgipv4.php?id=mlyy_4000
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="上海频道",上海劲爆体育
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",上海都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海频道",上海新视觉（不稳定）
-http://123.60.111.12:4567/bstip.php?id=xsj
+http://123.60.111.12/sxgipv4.php?id=ycxsjH265_4000
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海频道",上海游戏风云
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京卫视
