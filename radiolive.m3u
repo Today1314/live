@@ -83,3 +83,5 @@ https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
 http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="境外电台",美国之音中文广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外电台",自由亚洲电台
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
