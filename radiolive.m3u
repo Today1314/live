@@ -31,7 +31,7 @@ https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/乡村之声.png" group-title="央广电台",CNR-16 中国乡村之声
 https://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/哈萨克语广播.png" group-title="央广电台",CNR 哈语广播
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/哈萨克语广播.png" group-title="央广电台",CNR-17 哈语广播
 https://ngcdn025.cnr.cn/live/hygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="国广电台",CRI-1 轻松调频
 https://sk.cri.cn/915.m3u8
