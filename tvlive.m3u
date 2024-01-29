@@ -102,7 +102,7 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻综合
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226620/1.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",上海第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",上海五星体育
@@ -118,11 +118,11 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?ch
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",上海东方财经·浦东
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",上海七彩戏剧
-
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",上海法治天地
-
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225627/1.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海频道",上海乐游
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海频道",上海金色学堂
@@ -130,9 +130,9 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海频道",上海欢笑剧场
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海频道",上海动漫秀场
-
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="上海频道",上海生活时尚
-
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="上海频道",上海魅力足球（不稳定）
 http://php.jdshipin.com:8880/bst.php?id=mlyyhd8m/8000000
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="上海频道",上海劲爆体育
@@ -142,4 +142,4 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海频道",上海新视觉（不稳定）
 http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海频道",上海游戏风云
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226187/1.m3u8
