@@ -138,6 +138,6 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000002000029972/index.
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",上海都市剧场
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海频道",上海新视觉
-http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
+http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海频道",上海游戏风云
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
