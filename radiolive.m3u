@@ -68,11 +68,11 @@ http://play-a2.quklive.com/live/1690167926636110.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海新闻广播.png" group-title="上海电台",上海新闻广播
 http://rscdn-qn-i.ajmide.com/r_7/7.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/长三角之声.png" group-title="上海电台",上海长三角之声
-https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+http://rscdn-qn-i.ajmide.com/r_12/12.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海交通广播.png" group-title="上海电台",上海交通广播
 http://rscdn-qn-i.ajmide.com/r_1/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/第一财经广播.png" group-title="上海电台",上海第一财经广播
-https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+http://rscdn-qn-i.ajmide.com/r_5/5.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/五星体育广播.png" group-title="上海电台",上海五星体育广播
 http://rscdn-qn-i.ajmide.com/r_4/4.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/动感101.png" group-title="上海电台",上海动感101
