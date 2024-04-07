@@ -4,8 +4,8 @@ http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=192
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="香港频道",J2
 http://bziyunshao.synology.me:8890/bysid/82
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-http://bziyunshao.synology.me:8890/bysid/83
+http://live.cooltv.top/tv/tvb.php?id=6
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港频道",明珠台
 http://bziyunshao.synology.me:8890/bysid/2
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="香港频道",无线财经 体育 资讯台
-http://bziyunshao.synology.me:8890/bysid/85
+http://live.cooltv.top/tv/tvb.php?id=7
