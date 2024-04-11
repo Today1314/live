@@ -58,11 +58,11 @@ http://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/988.png" group-title="浙江电台",浙江新闻广播
 http://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
 #EXTINF:-1 group-title="    ┕嘉兴电台",嘉兴新闻综合广播
-http://play-a2.quklive.com/live/1675149682053306.m3u8
+http://play-sh13.quklive.com/live/1675149682053306.m3u8?auth_key=2028196278-470c3a8f6ef24db1802947861f39e313-0-d9b8bc9cf440db9291b073a61f804702
 #EXTINF:-1 group-title="    ┕嘉兴电台",嘉兴交通经济广播
-http://play-a2.quklive.com/live/1675149716969098.m3u8
+http://play-sh13.quklive.com/live/1675149716969098.m3u8?auth_key=2028196328-cad3d12b628e41e3a5da320aaf79595b-0-0d60e26d1a69dc2d86bf7fe82dc606c6
 #EXTINF:-1 group-title="    ┕嘉兴电台",嘉兴音乐生活广播
-http://play-a2.quklive.com/live/1675149748146301.m3u8
+http://play-sh13.quklive.com/live/1675149748146301.m3u8?auth_key=2028196348-a0939194a24c4cd59431b2edcd9ae427-0-205b54910e93edd9a6220ac7ecd163b9
 #EXTINF:-1 group-title="        ┕平湖电台",平湖交通生活广播
 http://play-sh13.quklive.com/live/1690167926636110.m3u8?auth_key=2027669399-ef1a37b1ad1d447e9aa99a96928dda79-0-7206a7e04b52a208c58e01566cfe0a1b&ipcity__1982=n40xRD9D07iQi%3DN4GNcjxUEODuADgDiwbTYhawD
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/上海新闻广播.png" group-title="上海电台",上海新闻广播
