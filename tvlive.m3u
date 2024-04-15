@@ -104,31 +104,31 @@ http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000182/index.m3u8?IAS
 #EXTINF:-1 tvg-id="上视新闻频道" tvg-name="上视新闻频道" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海频道",上海新闻综合
-
+http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="上海频道",上海第一财经
-
+http://php.jdshipin.com:8880/bst.php?id=dycjhd/4000000
 #EXTINF:-1 tvg-id="五星体育频道" tvg-name="五星体育频道" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海频道",上海五星体育
-
+http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",上海纪实人文
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?IAS
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
-
+http://php.jdshipin.com:8880/bst.php?id=hhxdhd/4000000
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
-
+http://php.jdshipin.com:8880/bst.php?id=wypdhd/4000000
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",上海东方影视
-
+http://php.jdshipin.com:8880/bst.php?id=dsjpdhd/4000000
 #EXTINF:-1 tvg-id="上海都市频道" tvg-name="上海都市频道" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海频道",上海都市
-
+http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="上海频道",上海东方财经·浦东
-
+http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="上海频道",上海七彩戏剧
-
+http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="上海频道",上海法治天地
-
+http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="上海频道",上海乐游
-
+http://php.jdshipin.com:8880/bst.php?id=qjshd/4000000
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="上海频道",上海金色学堂
-
+http://php.jdshipin.com:8880/bst.php?id=jingsepd8m/8000000
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="上海频道",上海欢笑剧场
 
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="上海频道",上海动漫秀场
