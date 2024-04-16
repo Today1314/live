@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
-https://euorigin.scdn.eu.org/live/tvb_jade.m3u8?token=620BucmR-E5sgbURTUVNeg&expires=1713286099
+
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="香港频道",J2
-https://euorigin.scdn.eu.org/live/tvb_j2.m3u8?token=Mh8kNt1ypvoAgUbPv3wfrQ&expires=1713286158
+
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
 https://tv.iill.top/tvb/2
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港频道",明珠台
-https://euorigin.scdn.eu.org/live/tvb_pearl.m3u8?token=NVsC9kOCUTsdCch2x2DiCg&expires=1713286179
+
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="香港频道",无线财经 体育 资讯台
 https://tv.iill.top/tvb/3
 #EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="澳门频道",澳视澳门
@@ -21,6 +21,12 @@ https://live4.tdm.com.mo/ch5/info_ch5.live/chunklist_w404090439.m3u8
 https://live4.tdm.com.mo/ch6/hd_ch6.live/chunklist_w309790791.m3u8
 #EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png" group-title="澳门频道",澳门-MACAU
 https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1769124069.m3u8
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻台
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713276773/ei/BTMeZqe2B76YkucPtM-swAk/ip/40.75.123.85/id/xL0ch83RAK8.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qddn76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_WaxlxpXgMrttMr0aChMPoO5bsDEFMl/vprv/1/playlist_type/DVR/mh/r6/mm/44/mn/sn-p5qddn76/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/mt/1713253725/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgCLGSLOqZzNQXG3isqCzaz1OHoeVHT0lGTLkr4Z-LRAcCIHM6ooRJiXluk2oKw0LbFkAv3ATa1it2fCH3FP3ezIHC/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAKfWsfsQLVwgDFRDs6Et1Ibdn784ldUSooDlvbMrRg8OAiBW7qgJRErvpsszxKm8YlcyZy6OlyBYYW_jy2B1WwnsFg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="台湾频道",中视新闻台
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713276717/ei/zTIeZumEGcOAkucPyaKdqA4/ip/40.75.123.85/id/TCnaIE_SAtM.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qlsnd6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5KG31e60g2z01AxRF8DbmpcjR_Y8kEX/vprv/1/playlist_type/DVR/mh/eb/mm/44/mn/sn-p5qlsnd6/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/mt/1713253725/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgbFfHu0lhMLOCu3jWcxB9hO-WZ_g_exq6S3yJmby-9OMCIF-Q4xeILnHq1M0g2PvnNgkZpwlEdGPmVXzo5GlGO9J2/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhANL3nV47xSOTAUoddROknZquqnM_i_dZmrarUI0JwjvlAiEA8rPEGJZ2wFZ17hInP6Z7Yc7lJQRDyHSqWz3qTgQfPEA%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾频道",中视新闻台
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713276745/ei/6TIeZoHBOtOTkucPwu2SwAg/ip/40.75.123.85/id/ylYJSBUgaMA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-p5qs7nsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f6EHkDMwMwj_lkpGz4fdEbf9RK6xberk/vprv/1/playlist_type/DVR/mh/iR/mm/44/mn/sn-p5qs7nsk/ms/lva/mv/u/mvi/1/pl/19/dover/11/pacing/0/keepalive/yes/mt/1713253725/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgewkYIx_yfbN-b_-Yk8eZ72qT9G7rNVLwSyQvvNLrPOkCIG1RuwN5nAziYcinQHAAuS5ZT2CItufITKOk3IKb33ko/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAKtFoqy1fA81yEOOqIrA6IYvTaYAQ7YP1lf-nflkHv5JAiA1Wuf1tClHmPnmljLIWkAM4N7a927SB2xG9k7j8Nc3hA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/VOA美国之音.png" group-title="美国频道",VOA卫视
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="美国电台",美国之音中文广播
