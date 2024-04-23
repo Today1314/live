@@ -130,3 +130,13 @@ http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播4K-2
 http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="国广电台",CRI-1 轻松调频
+https://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="国广电台",CRI-2 HITFM国际流行音乐
+https://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="国广电台",CRI-3 环球资讯广播
+https://sk.cri.cn/905.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="国广电台",CRI-4 南海之声
+https://sk.cri.cn/nhzs.m3u8
