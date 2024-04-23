@@ -1,7 +1,3 @@
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 中文国际 欧洲
-http://148.135.93.213:81/migu.php?id=cctv4o
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 中文国际 美洲
-http://148.135.93.213:81/migu.php?id=cctv4a
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京频道",北京卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京频道",北京文艺（不稳定）
@@ -16,26 +12,8 @@ http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1276
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="北京纪实8K" tvg-name="北京纪实8K" tvg-logo="https://epg.112114.xyz/logo/BRTV_DOCUMENTARY_8K.png" group-title="北京频道",北京纪实科教8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台（不稳定）
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png" group-title="香港频道",J2（不稳定）
-http://bziyunshao.synology.me:8890/bysid/82
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台（不稳定）
-http://r.jdshipin.com/CkuBd
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港频道",明珠台（不稳定）
-http://r.jdshipin.com/GeWKr?id=mzt720
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="香港频道",无线财经 体育 资讯台（不稳定）
-http://r.jdshipin.com/jUx8K
 
-http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
-http://159.75.85.63:5679/cctv4k.php
-http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
 
-http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-1
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-2
@@ -152,123 +130,3 @@ http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播4K-2
 http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-1
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-2
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-3
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-4
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-5
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-6
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-7
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-8
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-9
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000026778&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-10
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-11
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-12
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-13
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-14
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002032&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-15
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-16
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-17
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-18
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004464&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-19
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-20
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-21
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-22
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006944&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-23
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000007692&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-24
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-25
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-26
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011112&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-27
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-28
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-29
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011763&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-30
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011873&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-31
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012398&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-32
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012450&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-33
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-34
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-35
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-36
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-37
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017389&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-38
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-39
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017997&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-40
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019380&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-41
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-42
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000020168&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-43
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-44
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-45
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024205&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-46
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000024691&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-47
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-48
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025943&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-49
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027318&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-50
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027638&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-51
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-52
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播-53
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播4K-1
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕直播",咪咕直播4K-2
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-
-中天新闻 28
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713276779/ei/CzMeZtqqI66pkucP56i7mAQ/ip/40.75.123.85/id/oIgbl7t0S_w.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qddn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f8AKvLOS0oJMwtz-t5Riu3eZFhsbYg0K/vprv/1/playlist_type/DVR/mh/Qu/mm/44/mn/sn-p5qddn7d/ms/lva/mv/u/mvi/5/pl/19/dover/11/pacing/0/keepalive/yes/mt/1713253725/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAK3fCvh8aHkt-8ZRXId3IjnfRIByA4zIClYeG7-Ssj41AiAh_0KJbZyVV8hQtg76nFQwtXD-qfrqrYKohtaDuZQP5A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAPPn0dcRc9L_Q3V9mMKQ4GuGw42h0slnPoM_EsM7boswAiAPEx3suZ8xKtauBJTj9LkvBjTbXq1sYwkgAH6jnptn1Q%3D%3D/playlist/index.m3u8
-
-tvbs news 31
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713276795/ei/GzMeZrXyDuCVkucPw_Og8Aw/ip/40.75.123.85/id/m_dhMSvUCIc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-p5qddn7k.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f93uhRSi15n_OlnUhWOiXvc0BJomzxye/vprv/1/playlist_type/DVR/mh/V0/mm/44/mn/sn-p5qddn7k/ms/lva/mv/u/mvi/5/pl/19/dover/11/pacing/0/keepalive/yes/mt/1713253725/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgIG6UdPCzQkt2udTVqDgKJ99ZfGgbsIA7OBbTV_crK_sCIHQncBr0mbwBW0eZZmI6btkT28RpdYmTZMSXxQMuxK-0/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAOQxeen1dM090o_-93QsbZL6ZRX_OMzS4lxqRFoeKEV2AiEAkeSTF4G345MXLj5NiknC7GyssacvdIztzsnWixdnbvQ%3D/playlist/index.m3u8
-
-
