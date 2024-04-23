@@ -94,11 +94,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴新闻综合
-https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1713348127-8482ca9e12414fc5904f8b12536825ef-0-63a6b32f13f8751645873f3a57e952bd
+https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1713876953-3de75c9b7c88423097fb1912cbeeb585-0-2a8ece59dc7591311ef7c70d2c7161f2
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴文化影视
-https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1713348195-27c7d7eea0904b47aa021fba3548d638-0-787e1554247539f2d35f47261f05a761
+https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1713876975-f4274a1457224f8089b41d3c502d680f-0-b1926d5d81ddc2d1542f5b512b1f93c0
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴公共频道
-https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1713348238-74b9cb51a20445be89f12b6e9f78adfa-0-af0d39ffcea5fc0c5965057eb81c2032
+https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1713876994-608599c6870a48eda5c9bbc1722532a0-0-0b3f24972f6cea702dcbec226f571a6c
 #EXTINF:-1 group-title="        ┕平湖频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
@@ -112,7 +112,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",上海纪实人文
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+http://php.jdshipin.com:8880/bst.php?id=wypdhd/4000000
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",上海东方影视
