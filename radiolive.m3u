@@ -33,14 +33,6 @@ https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 https://ngcdn017.cnr.cn/live/xczs/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/哈萨克语广播.png" group-title="央广电台",CNR-17 哈语广播
 https://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="国广电台",CRI-1 轻松调频
-https://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="国广电台",CRI-2 HITFM国际流行音乐
-https://sk.cri.cn/887.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/环球资讯广播.png" group-title="国广电台",CRI-3 环球资讯广播
-https://sk.cri.cn/905.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/南海之声.png" group-title="国广电台",CRI-4 南海之声
-https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江之声.png" group-title="浙江电台",浙江之声
 http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浙江经济广播.png" group-title="浙江电台",浙江财富广播
