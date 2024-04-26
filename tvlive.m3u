@@ -94,11 +94,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴新闻综合
-https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1713876953-3de75c9b7c88423097fb1912cbeeb585-0-2a8ece59dc7591311ef7c70d2c7161f2
+https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1714143300-5be36ca9b0c448df95cbaf857f6749a9-0-8d2f89ecaf684752602c9af322ce4d25
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴文化影视
-https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1713876975-f4274a1457224f8089b41d3c502d680f-0-b1926d5d81ddc2d1542f5b512b1f93c0
+https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1714143428-71ce63a2ac1f486ea5252dae98e466a8-0-06157cd033aa3ca4d1c957049441b0f1
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴公共频道
-https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1713876994-608599c6870a48eda5c9bbc1722532a0-0-0b3f24972f6cea702dcbec226f571a6c
+http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1714143490-3563c516de00488cb53c95abafbc4798-0-35522ef5259516ae6eaaebc421ec0225
 #EXTINF:-1 group-title="        ┕平湖频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
