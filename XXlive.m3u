@@ -1,31 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港频道",凤凰卫视中文台
-http://113.64.145.231:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港频道",凤凰卫视资讯台
-http://113.64.145.231:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港频道",凤凰卫视香港台
-http://113.64.145.231:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
-https://yang-1989.eu.org/tv/jade_twn
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="香港频道",TVB Plus
-https://yang-1989.eu.org/tv/j2_twn
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
-https://yang-1989.eu.org/tvb/2
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="香港频道",明珠台
-https://z88.ubtvfans.com/live/rx3/391/49c6f4b711497e559ed7ec30b2a7cde9/index.m3u8
-#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://live.fanmingming.com/tv/TVB星河.png" group-title="香港频道",TVB 星河
-http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="澳门频道",澳视澳门
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月17日
+境外直播
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://yang-1989.eu.org/logo/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
+http://113.64.145.214:8081/hls/37/index.m3u8#http://222.217.243.135:8181/tsfile/live/1001_1.m3u8#http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://yang-1989.eu.org/logo/凤凰资讯.png" group-title="香港频道",凤凰卫视资讯台
+http://113.64.145.214:8081/hls/36/index.m3u8#http://222.217.243.135:8181/tsfile/live/1000_1.m3u8#http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://yang-1989.eu.org/logo/凤凰香港.png" group-title="香港频道",凤凰卫视香港台
+http://113.64.145.214:8081/hls/38/index.m3u8#http://222.217.243.135:8181/tsfile/live/1002_1.m3u8#http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://yang-1989.eu.org/logo/翡翠台.png" group-title="香港频道",翡翠台
+https://yang-1989.eu.org/tvb/fct
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://yang-1989.eu.org/logo/TVBPlus.png" group-title="香港频道",TVB Plus
+https://yang-1989.eu.org/tvb/tvb
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://yang-1989.eu.org/logo/无线新闻.png" group-title="香港频道",无线新闻台
+https://yang-1989.eu.org/tvb/wxxw
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://yang-1989.eu.org/logo/明珠台.png" group-title="香港频道",明珠台
+https://yang-1989.eu.org/tvb/mzt
+#EXTINF:-1 tvg-id="千禧经典" tvg-name="千禧经典" tvg-logo="https://yang-1989.eu.org/logo/千禧经典.png" group-title="香港频道",千禧经典台
+https://yang-1989.eu.org/tvb/qxjd
+#EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://yang-1989.eu.org/logo/娱乐新闻.png" group-title="香港频道",娱乐新闻台
+https://yang-1989.eu.org/tvb/ylxw
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://yang-1989.eu.org/logo/澳视澳门.png" group-title="澳门频道",澳视澳门
 https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w1817639276.m3u8
-#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi2.png" group-title="澳门频道",澳视葡文
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://yang-1989.eu.org/logo/澳视葡文.png" group-title="澳门频道",澳视葡文
 https://live5.tdm.com.mo/ch2/ch2.live/chunklist_w881850695.m3u8
-#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi3.png" group-title="澳门频道",澳门体育
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://yang-1989.eu.org/logo/澳门体育.png" group-title="澳门频道",澳门体育
 https://live5.tdm.com.mo/ch4/sport_ch4.live/chunklist_w774421416.m3u8
-#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi4.png" group-title="澳门频道",澳门资讯
+#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://yang-1989.eu.org/logo/澳门资讯.png" group-title="澳门频道",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w1354694339.m3u8
-#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi5.png" group-title="澳门频道",澳门综艺
+#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://yang-1989.eu.org/logo/澳门综艺.png" group-title="澳门频道",澳门综艺
 https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w407599843.m3u8
-#EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoshi6.png" group-title="澳门频道",澳门-MACAU
+#EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://yang-1989.eu.org/logo/澳门Macau.png" group-title="澳门频道",澳门-MACAU
 https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w2034900737.m3u8
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
