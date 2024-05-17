@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",2024年5月17日更新
-1
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月17日
+咪咕直播
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕直播",咪咕直播-2
