@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月21日
+澳门直播
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://yang-1989.eu.org/logo/澳视澳门.png" group-title="澳门频道",澳视澳门
+https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w1817639276.m3u8
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://yang-1989.eu.org/logo/澳视葡文.png" group-title="澳门频道",澳视葡文
+https://live5.tdm.com.mo/ch2/ch2.live/chunklist_w881850695.m3u8
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://yang-1989.eu.org/logo/澳门体育.png" group-title="澳门频道",澳门体育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/chunklist_w774421416.m3u8
+#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://yang-1989.eu.org/logo/澳门资讯.png" group-title="澳门频道",澳门资讯
+https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w1354694339.m3u8
+#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://yang-1989.eu.org/logo/澳门综艺.png" group-title="澳门频道",澳门综艺
+https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w407599843.m3u8
+#EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://yang-1989.eu.org/logo/澳门Macau.png" group-title="澳门频道",澳门-MACAU
+https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w2034900737.m3u8
