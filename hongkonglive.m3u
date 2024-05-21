@@ -19,29 +19,3 @@ https://yang-1989.eu.org/tvb/mzt
 https://yang-1989.eu.org/tvb/qxjd
 #EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://yang-1989.eu.org/logo/娱乐新闻.png" group-title="香港频道",娱乐新闻台
 https://yang-1989.eu.org/tvb/ylxw
-#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://yang-1989.eu.org/logo/澳视澳门.png" group-title="澳门频道",澳视澳门
-https://live5.tdm.com.mo/ch1/ch1.live/chunklist_w1817639276.m3u8
-#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://yang-1989.eu.org/logo/澳视葡文.png" group-title="澳门频道",澳视葡文
-https://live5.tdm.com.mo/ch2/ch2.live/chunklist_w881850695.m3u8
-#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://yang-1989.eu.org/logo/澳门体育.png" group-title="澳门频道",澳门体育
-https://live5.tdm.com.mo/ch4/sport_ch4.live/chunklist_w774421416.m3u8
-#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://yang-1989.eu.org/logo/澳门资讯.png" group-title="澳门频道",澳门资讯
-https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w1354694339.m3u8
-#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://yang-1989.eu.org/logo/澳门综艺.png" group-title="澳门频道",澳门综艺
-https://live5.tdm.com.mo/ch6/hd_ch6.live/chunklist_w407599843.m3u8
-#EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://yang-1989.eu.org/logo/澳门Macau.png" group-title="澳门频道",澳门-MACAU
-https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w2034900737.m3u8
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="台湾频道",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="台湾频道",中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾频道",民视新闻
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="台湾频道",中天新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/VOA美国之音.png" group-title="美国频道",VOA卫视
-https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="美国电台",美国之音中文广播
-https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="美国电台",自由亚洲电台
-https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
