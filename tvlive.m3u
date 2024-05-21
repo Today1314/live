@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月20日
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月21日
 电视直播
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
@@ -90,11 +90,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴新闻综合
-https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1714400491-aad0b85dc12c4105b1a904c1040e8242-0-68433da2cd7e635499356241aa5c7795
+https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1716291979-4ad25adc347b497fb58f8712b9b6bb8d-0-f51ddccf4531c9263b133bd9dc2670b7
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴文化影视
-https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1714400523-c43d08635ab143bb8d9869acb43f2b3b-0-50bf7893a81ab23a11dbfaf4d76a80d0
+https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1716292004-a34ee83d199d453da0667686b1f9a40a-0-2cd2caa6117b021b22cf56f7e242fa91
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴公共频道
-https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1714400544-6f8d592f07f2496c8fa66fb32dcb2c13-0-f745746b21166fb56fcafe18a031a480
+https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1716292033-c41b88319c1d46e2864b3bf4df7e4c3e-0-d08b72226494c59bcbb4628fafb5f3e6
 #EXTINF:-1 group-title="        ┕平湖频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
@@ -108,7 +108,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海频道",上海纪实人文
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
-http://php.jdshipin.com:8880/bst.php?id=hhxdhd/4000000
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010117/1.m3u8
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海频道",上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海频道",上海东方影视
@@ -138,6 +138,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="上海频道",上海都市剧场
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="上海频道",上海新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
+
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="上海频道",上海游戏风云
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011
