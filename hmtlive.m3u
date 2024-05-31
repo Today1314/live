@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月21日
-香港直播
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年5月31日
+港澳台直播
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://yang-1989.eu.org/logo/凤凰中文.png" group-title="香港频道",凤凰卫视中文台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://yang-1989.eu.org/logo/凤凰资讯.png" group-title="香港频道",凤凰卫视资讯台
@@ -19,3 +19,15 @@ https://yang-1989.eu.org/tvb/mzt
 https://yang-1989.eu.org/tvb/qxjd
 #EXTINF:-1 tvg-id="娱乐新闻" tvg-name="娱乐新闻" tvg-logo="https://yang-1989.eu.org/logo/娱乐新闻.png" group-title="香港频道",娱乐新闻台
 https://yang-1989.eu.org/tvb/ylxw
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://yang-1989.eu.org/logo/澳视澳门.png" group-title="澳门频道",澳视澳门
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://yang-1989.eu.org/logo/澳视葡文.png" group-title="澳门频道",澳视葡文
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门体育" tvg-name="澳门体育" tvg-logo="https://yang-1989.eu.org/logo/澳门体育.png" group-title="澳门频道",澳门体育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://yang-1989.eu.org/logo/澳门资讯.png" group-title="澳门频道",澳门资讯
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门综艺" tvg-name="澳门综艺" tvg-logo="https://yang-1989.eu.org/logo/澳门综艺.png" group-title="澳门频道",澳门综艺
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://yang-1989.eu.org/logo/澳门Macau.png" group-title="澳门频道",澳门-MACAU
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
