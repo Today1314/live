@@ -31,3 +31,25 @@ https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门-MACAU" tvg-name="澳门-MACAU" tvg-logo="https://yang-1989.eu.org/logo/澳门Macau.png" group-title="澳门频道",澳门-MACAU
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="中视综合台" tvg-name="中视综合台" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="台湾频道",中视综合台
+https://tv.iill.top/4gtv/4
+#EXTINF:-1 tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://live.fanmingming.com/tv/中视新闻台.png" group-title="台湾频道",中视新闻台
+https://tv.iill.top/4gtv/33
+#EXTINF:-1 tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://live.fanmingming.com/tv/中视经典.png" group-title="台湾频道",中视经典台
+https://tv.iill.top/4gtv/124
+#EXTINF:-1 tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://live.fanmingming.com/tv/中视菁采.png" group-title="台湾频道",中视菁采台
+https://tv.iill.top/4gtv/123
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="台湾频道",民视
+https://tv.iill.top/4gtv/3
+#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://live.fanmingming.com/tv/民视第一台.png" group-title="台湾频道",民视第一台
+https://tv.iill.top/4gtv/1
+#EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.com/tv/民视台湾台.png" group-title="台湾频道",民视台湾台
+https://tv.iill.top/4gtv/2
+#EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.com/tv/民视新闻台.png" group-title="台湾频道",民视新闻台
+https://tv.iill.top/4gtv/31
+#EXTINF:-1 tvg-id="民视影剧台" tvg-name="民视影剧台" tvg-logo="https://assets.livednow.com/logo/民視影劇台.png" group-title="台湾频道",民视影剧台
+https://tv.iill.top/4gtv/24
+#EXTINF:-1 tvg-id="民视综艺台" tvg-name="民视综艺台" tvg-logo="https://live.fanmingming.com/tv/民视综艺台.png" group-title="台湾频道",民视综艺台
+https://tv.iill.top/4gtv/16
+#EXTINF:-1 tvg-id="民视旅游台" tvg-name="民视旅游台" tvg-logo="https://live.fanmingming.com/tv/民视旅游台.png" group-title="台湾频道",民视旅游台
+https://tv.iill.top/4gtv/61
