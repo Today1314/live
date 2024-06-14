@@ -235,3 +235,5 @@ https://yang-1989.eu.org/tv/ztzh
 https://yang-1989.eu.org/tv/ztyl
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://yang-1989.eu.org/logo/中天亚洲.png" group-title="台湾频道",中天亚洲台
 https://yang-1989.eu.org/tv/ztyz
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/VOA美国之音.png" group-title="美国频道",VOA卫视
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
