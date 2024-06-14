@@ -83,3 +83,7 @@ http://rscdn-qn-i.ajmide.com/r_3/3.m3u8
 http://rscdn-qn-i.ajmide.com/r_6/6.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/浦江之声.png" group-title="上海电台",上海浦江之声广播
 http://rscdn-qn-i.ajmide.com/r_8/8.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="美国电台",美国之音中文广播
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="美国电台",自由亚洲电台
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
