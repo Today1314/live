@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年6月14日
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年6月15日
 电视直播
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
@@ -90,11 +90,11 @@ http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
 http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴新闻综合
-https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1718034615-230109c1d05940639a19acf59a65ab13-0-e5f36caab791308f064852f1a62ffd6e
+https://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=1718427053-e8d28f8bbcf74d609a27f8c3fcbcd2c5-0-b02016b2194ad1ef68c46e7d5cd88f5e
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴文化影视
-https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1718034638-41e0fb21c4734564bf15568c5c44e235-0-900c211cd0c67cd84a79df7ad79ab87f
+https://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=1718427096-d82aee68afb04ffe83ae0a8a7972c4d2-0-f716cbce037fca890cea68b01addfe13
 #EXTINF:-1 group-title="    ┕嘉兴频道",嘉兴公共频道
-https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1718034658-285a8ceebda34602b98025a9a533de1d-0-c7d4b04a893ef56bf4c4f49624d01efc
+https://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=1718427125-303916fa4bff4fc78210290230e9a7d3-0-cc96bdd9b336a915e7fd49c8c094ba98
 #EXTINF:-1 group-title="        ┕平湖频道",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="上海频道",东方卫视
@@ -219,14 +219,6 @@ https://yang-1989.eu.org/tv/dscs
 https://yang-1989.eu.org/tv/ettvwestern
 #EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://yang-1989.eu.org/logo/东森电影.png" group-title="台湾频道",东森电影
 https://yang-1989.eu.org/tv/dsdy
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://yang-1989.eu.org/logo/TVBS.png" group-title="台湾频道",TVBS
-https://yang-1989.eu.org/litv/4gtv-4gtv073
-#EXTINF:-1 tvg-id="TVBS 欢乐台" tvg-name="TVBS 欢乐台" tvg-logo="https://yang-1989.eu.org/logo/TVBS欢乐.png" group-title="台湾频道",TVBS 欢乐台
-https://yang-1989.eu.org/litv/4gtv-4gtv068
-#EXTINF:-1 tvg-id="TVBS 新闻台" tvg-name="TVBS 新闻台" tvg-logo="https://yang-1989.eu.org/logo/TVBS新闻.png" group-title="台湾频道",TVBS 新闻台
-https://yang-1989.eu.org/litv/4gtv-4gtv072
-#EXTINF:-1 tvg-id="TVBS 精采台" tvg-name="TVBS 精采台" tvg-logo="https://yang-1989.eu.org/logo/TVBS精彩.png" group-title="台湾频道",TVBS 精采台
-https://yang-1989.eu.org/litv/4gtv-4gtv067
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://yang-1989.eu.org/logo/中天新闻.png" group-title="台湾频道",中天新闻台
 https://yang-1989.eu.org/tv/ztxw
 #EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://yang-1989.eu.org/logo/中天综合.png" group-title="台湾频道",中天综合台
@@ -235,6 +227,18 @@ https://yang-1989.eu.org/tv/ztzh
 https://yang-1989.eu.org/tv/ztyl
 #EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://yang-1989.eu.org/logo/中天亚洲.png" group-title="台湾频道",中天亚洲台
 https://yang-1989.eu.org/tv/ztyz
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://yang-1989.eu.org/logo/TVBS.png" group-title="台湾频道",TVBS
+https://yang-1989.eu.org/litv/4gtv-4gtv073
+#EXTINF:-1 tvg-id="TVBS 欢乐台" tvg-name="TVBS 欢乐台" tvg-logo="https://yang-1989.eu.org/logo/TVBS欢乐.png" group-title="台湾频道",TVBS 欢乐台
+https://yang-1989.eu.org/litv/4gtv-4gtv068
+#EXTINF:-1 tvg-id="TVBS 新闻台" tvg-name="TVBS 新闻台" tvg-logo="https://yang-1989.eu.org/logo/TVBS新闻.png" group-title="台湾频道",TVBS 新闻台
+https://yang-1989.eu.org/litv/4gtv-4gtv072
+#EXTINF:-1 tvg-id="TVBS 精采台" tvg-name="TVBS 精采台" tvg-logo="https://yang-1989.eu.org/logo/TVBS精彩.png" group-title="台湾频道",TVBS 精采台
+https://yang-1989.eu.org/litv/4gtv-4gtv067
+#EXTINF:-1 tvg-id="TVBS 综艺台" tvg-name="TVBS 综艺台" tvg-logo="https://assets.livednow.com/logo/TVBS-綜藝台.png" group-title="台湾频道",TVBS 综艺台
+https://yang-1989.eu.org/4gtv/284
+#EXTINF:-1 tvg-id="TVBS 台剧台" tvg-name="TVBS 台剧台" tvg-logo="https://assets.livednow.com/logo/TVBS-台劇台.png" group-title="台湾频道",TVBS 台剧台
+https://yang-1989.eu.org/4gtv/285
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/VOA美国之音.png" group-title="美国频道",VOA卫视
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-1
@@ -245,3 +249,83 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-4
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-5
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-6
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-7
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-8
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-9
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-10
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-11
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-12
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-13
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-14
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-15
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-16
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-17
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-18
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-19
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-20
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-21
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-22
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-23
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-24
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-25
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-26
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-27
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-28
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-29
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-30
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-31
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-32
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-33
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-34
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-35
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-36
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-37
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-38
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-39
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-40
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-41
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-42
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-43
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=3
+#EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/咪咕.png" group-title="咪咕频道",咪咕视频-44
+http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
