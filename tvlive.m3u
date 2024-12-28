@@ -159,12 +159,6 @@ http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" group-title="香港频道",香港丨娱乐新闻台
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.iill.top/logo/民视第一.png" group-title="台湾频道",台湾丨民视第一台
-http://litv.zapi.us.kg/?id=4gtv-4gtv003
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.iill.top/logo/民视台湾.png" group-title="台湾频道",台湾丨民视台湾台
-http://litv.zapi.us.kg/?id=4gtv-4gtv001
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.iill.top/logo/民视新闻.png" group-title="台湾频道",台湾丨民视新闻台
-http://litv.zapi.us.kg/?id=litv-ftv13
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/东森新闻.png" group-title="台湾频道",台湾丨东森新闻
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.iill.top/logo/中天新闻.png" group-title="台湾频道",台湾丨中天新闻台
@@ -175,8 +169,6 @@ http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS 新闻台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="台湾频道",台湾丨TVBS 新闻台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS 欢乐台" tvg-logo="https://epg.iill.top/logo/TVBS欢乐.png" group-title="台湾频道",台湾丨TVBS 欢乐台
-http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="求索频道",求索丨纪录
 http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索频道",求索丨生活
@@ -186,11 +178,11 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000010046/index.m3u8?
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="求索频道",求索丨科学
 http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="睛彩频道",睛彩丨竞技
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8?
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="睛彩频道",睛彩丨篮球
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="睛彩频道",睛彩丨青少
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000120/index.m3u8
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000120/index.m3u8?
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.com/tv/睛彩广场舞.png" group-title="睛彩频道",睛彩丨广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="咪咕频道",咪咕丨视频 1
