@@ -46,7 +46,14 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC频道",CHC丨家庭影院
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC频道",CHC丨影迷电影
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC频道",CHC丨动作电影
-
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.iill.top/logo/民视第一.png" group-title="台湾频道",台湾丨民视第一台
+http://litv.zapi.us.kg/?id=4gtv-4gtv003
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.iill.top/logo/民视台湾.png" group-title="台湾频道",台湾丨民视台湾台
+http://litv.zapi.us.kg/?id=4gtv-4gtv001
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.iill.top/logo/民视新闻.png" group-title="台湾频道",台湾丨民视新闻台
+http://litv.zapi.us.kg/?id=litv-ftv13
+#EXTINF:-1 tvg-name="TVBS 欢乐台" tvg-logo="https://epg.iill.top/logo/TVBS欢乐.png" group-title="台湾频道",台湾丨TVBS 欢乐台
+http://litv.zapi.us.kg/?id=4gtv-4gtv068
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/轻松调频.png" group-title="国广电台",CRI-1 轻松调频
 https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="国广电台",CRI-2 HITFM国际流行音乐
