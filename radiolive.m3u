@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年12月29日
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年1月1日
 广播直播
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国之声.png" group-title="央广电台",CNR 1 中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
@@ -67,22 +67,14 @@ http://rscdn-qn-i.ajmide.com/r_12/12.m3u8
 http://rscdn-qn-i.ajmide.com/r_1/1.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/第一财经广播.png" group-title="上海电台",上海丨第一财经广播
 http://rscdn-qn-i.ajmide.com/r_5/5.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/五星体育广播.png" group-title="上海电台",上海丨五星体育广播
-http://rscdn-qn-i.ajmide.com/r_4/4.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/动感101.png" group-title="上海电台",上海丨流行音乐广播 动感101
 http://rscdn-qn-i.ajmide.com/r_11/11.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/loveradio.png" group-title="上海电台",上海丨经典金曲广播 Love Radio103.7
 http://rscdn-qn-i.ajmide.com/r_2/2.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海经典947.png" group-title="上海电台",上海丨经典音乐广播 经典947
 http://rscdn-qn-i.ajmide.com/r_10/10.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/kfm.png" group-title="上海电台",上海丨KFM981
-http://rscdn-qn-i.ajmide.com/r_1001/1001.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海故事广播.png" group-title="上海电台",上海丨故事广播
-http://rscdn-qn-i.ajmide.com/r_3/3.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海戏曲广播.png" group-title="上海电台",上海丨戏曲广播
 http://rscdn-qn-i.ajmide.com/r_6/6.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/浦江之声.png" group-title="上海电台",上海丨浦江之声
-http://rscdn-qn-i.ajmide.com/r_8/8.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/美国之音.png" group-title="美国电台",美国丨美国之音中文广播
 https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/自由亚洲电台.png" group-title="美国电台",美国丨自由亚洲电台
