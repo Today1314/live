@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2024年12月29日
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年1月1日
 电视直播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",央视丨CCTV 1 综合
 http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
@@ -69,20 +69,14 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031110/index.m3u8?
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="上海频道",上海丨五星体育
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="上海频道",上海丨纪实人文
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="上海频道",上海丨哈哈炫动
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.cn/tv/上海外语.png" group-title="上海频道",上海丨ICS
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海频道",上海丨东方影视
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000010000032212/index.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海频道",上海丨都市
 http://[2409:8087:5e08:24::17]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.cn/tv/东方财经.png" group-title="上海频道",上海丨东方财经·浦东
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.cn/tv/七彩戏剧.png" group-title="上海频道",上海丨七彩戏剧
-http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.cn/tv/法治天地.png" group-title="上海频道",上海丨法治天地
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.cn/tv/乐游.png" group-title="上海频道",上海丨乐游
@@ -190,66 +184,10 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000010046/index.m3u8?
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://live.fanmingming.cn/tv/求索科学.png" group-title="求索频道",求索丨科学
 http://[2409:8087:5e08:24::17]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="睛彩频道",睛彩丨竞技
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000119/index.m3u8?
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="睛彩频道",睛彩丨篮球
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="睛彩频道",睛彩丨青少
-http://[2409:8087:74d6:22::7]:6410/270000001128/9900000120/index.m3u8?
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="睛彩频道",睛彩丨广场舞
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 1
-http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 2
-http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 3
-http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 4
-http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 5
-http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 6
-http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 7
-http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 8
-http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 9
-http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 10
-http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 11
-http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 12
-http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 13
-http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 14
-http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 15
-http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 16
-http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 17
-http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 18
-http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 19
-http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 20
-http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 21
-http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 22
-http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 23
-http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 24
-http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 25
-http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 26
-http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 27
-http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&HlsProfileId=
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕频道",咪咕丨视频 28
-http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&HlsProfileId=
