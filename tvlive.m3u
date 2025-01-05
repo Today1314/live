@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年1月4日
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年1月5日
 电视直播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",央视丨CCTV 1 综合
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
@@ -41,6 +41,10 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265014/index.m3u8
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",央视丨CCTV 17 农业农村
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4k.png" group-title="央视频道",央视丨CCTV 4K 超高清
+http://106.59.2.157:55555/udp/239.200.200.202:8784
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",央视丨CCTV-8K 超高清
+http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="浙江频道",浙江丨浙江卫视
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000005000265031/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265031&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="浙江频道",浙江丨钱江
@@ -95,6 +99,8 @@ http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031207/index.m3u8
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000002000029972/index.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="上海频道",上海丨都市剧场
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="新视觉" tvg-logo="https://live.fanmingming.cn/tv/新视觉.png" group-title="上海频道",上海丨新视觉
+http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.cn/tv/游戏风云.png" group-title="上海频道",上海丨游戏风云
 http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="北京频道",北京丨北京卫视
