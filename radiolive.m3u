@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年1月1日
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年1月31日
 广播直播
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国之声.png" group-title="央广电台",CNR 1 中国之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国之声.png" group-title="央广电台",央广丨CNR 1 中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/经济之声.png" group-title="央广电台",CNR 2 经济之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/经济之声.png" group-title="央广电台",央广丨CNR 2 经济之声
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/音乐之声.png" group-title="央广电台",CNR 3 音乐之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/音乐之声.png" group-title="央广电台",央广丨CNR 3 音乐之声
 https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/经典音乐广播.png" group-title="央广电台",CNR 4 经典音乐广播
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/经典音乐广播.png" group-title="央广电台",央广丨CNR 4 经典音乐广播
 https://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/台海之声.png" group-title="央广电台",CNR 5 台海之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/台海之声.png" group-title="央广电台",央广丨CNR 5 台海之声
 https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/神州之声.png" group-title="央广电台",CNR 6 神州之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/神州之声.png" group-title="央广电台",央广丨CNR 6 神州之声
 https://ngcdn006.cnr.cn/live/szzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/大湾区之声.png" group-title="央广电台",CNR 7 大湾区之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/大湾区之声.png" group-title="央广电台",央广丨CNR 7 大湾区之声
 https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/民族之声.png" group-title="央广电台",CNR 8 民族之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/民族之声.png" group-title="央广电台",央广丨CNR 8 民族之声
 https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/文艺之声.png" group-title="央广电台",CNR 9 文艺之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/文艺之声.png" group-title="央广电台",央广丨CNR 9 文艺之声
 https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/老年之声.png" group-title="央广电台",CNR 10 老年之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/老年之声.png" group-title="央广电台",央广丨CNR 10 老年之声
 https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/藏语广播.png" group-title="央广电台",CNR 11 藏语广播
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/藏语广播.png" group-title="央广电台",央广丨CNR 11 藏语广播
 https://ngcdn012.cnr.cn/live/zygb/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/阅读之声.png" group-title="央广电台",CNR 12 阅读之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/阅读之声.png" group-title="央广电台",央广丨CNR 12 阅读之声
 https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/维吾尔语广播.png" group-title="央广电台",CNR 13 维语广播
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/维吾尔语广播.png" group-title="央广电台",央广丨CNR 13 维语广播
 https://ngcdn013.cnr.cn/live/wygb/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/香港之声.png" group-title="央广电台",CNR 14 香港之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/香港之声.png" group-title="央广电台",央广丨CNR 14 香港之声
 https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国交通广播.png" group-title="央广电台",CNR 15 中国交通广播
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国交通广播.png" group-title="央广电台",央广丨CNR 15 中国交通广播
 https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/乡村之声.png" group-title="央广电台",CNR 16 中国乡村之声
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/乡村之声.png" group-title="央广电台",央广丨CNR 16 中国乡村之声
 https://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/哈萨克语广播.png" group-title="央广电台",CNR 17 哈语广播
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/哈萨克语广播.png" group-title="央广电台",央广丨CNR 17 哈语广播
 https://ngcdn025.cnr.cn/live/hygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/浙江之声.png" group-title="浙江电台",浙江丨浙江之声
 http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
