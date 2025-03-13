@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4k.png" group-title="央视频道",央视丨CCTV 4K 超高清
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.cn/tv/CCTV8K.png" group-title="央视频道",央视丨CCTV 8K 超高清
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.cn/tv/第一剧场.png" group-title="央视频道",央视丨CCTV 第一剧场
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.cn/tv/风云剧场.png" group-title="央视频道",央视丨CCTV 风云剧场
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="央视频道",央视丨CCTV 怀旧剧场
@@ -16,7 +18,6 @@
 #EXTINF:-1 tvg-name="嘉兴公共频道" group-title="    ┕嘉兴频道",嘉兴丨公共频道
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上视新闻.png" group-title="上海频道",上海丨新闻综合
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/上海第一财经.png" group-title="上海频道",上海丨第一财经
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="上海频道",上海丨五星体育
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.cn/tv/哈哈炫动.png" group-title="上海频道",上海丨哈哈炫动
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://live.fanmingming.cn/tv/东方影视.png" group-title="上海频道",上海丨东方影视
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海频道",上海丨都市
@@ -69,11 +70,6 @@
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png" group-title="香港频道",香港丨TVB 星河
 #EXTINF:-1 tvg-name="viutv" tvg-logo="https://live.fanmingming.cn/tv/viutv.png" group-title="香港频道",香港丨ViuTV
 #EXTINF:-1 tvg-name="viutv6" tvg-logo="https://live.fanmingming.cn/tv/viutv6.png" group-title="香港频道",香港丨ViuTVsix
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.cn/tv/中视.png" group-title="台湾频道",台湾丨中视
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="台湾频道",台湾丨华视
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.iill.top/logo/民视第一.png" group-title="台湾频道",台湾丨民视第一台
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.iill.top/logo/民视台湾.png" group-title="台湾频道",台湾丨民视台湾台
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.iill.top/logo/民视新闻.png" group-title="台湾频道",台湾丨民视新闻台
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://epg.iill.top/logo/中天亚洲.png" group-title="台湾频道",台湾丨中天亚洲台
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.cn/tv/TVBS.png" group-title="台湾频道",台湾丨TVBS
 #EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png" group-title="台湾频道",台湾丨TVBS 新闻台
