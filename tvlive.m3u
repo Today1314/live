@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年4月3日
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年4月4日
 电视直播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",央视丨CCTV 1 综合
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
@@ -92,42 +92,34 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="广东频道",广东丨体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="香港频道",香港丨凤凰卫视中文台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="香港频道",香港丨凤凰卫视资讯台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="香港频道",香港丨凤凰卫视香港台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="香港频道",香港丨翡翠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="香港频道",香港丨TVB Plus
-http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="香港频道",香港丨无线新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="香港频道",香港丨明珠台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="娱乐新闻" tvg-logo="https://epg.iill.top/logo/娱乐新闻.png" group-title="香港频道",香港丨娱乐新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.cn/tv/中视.png" group-title="台湾频道",台湾丨中视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png" group-title="台湾频道",台湾丨中视新闻台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png" group-title="台湾频道",台湾丨华视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.cn/tv/台视.png" group-title="台湾频道",台湾丨台视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png" group-title="台湾频道",台湾丨台视新闻台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.cn/tv/民视.png" group-title="台湾频道",台湾丨民视
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://live.fanmingming.cn/tv/民视第一台.png" group-title="台湾频道",台湾丨民视第一台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://live.fanmingming.cn/tv/民视台湾台.png" group-title="台湾频道",台湾丨民视台湾台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://live.fanmingming.cn/tv/民视新闻台.png" group-title="台湾频道",台湾丨民视新闻台
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.iill.top/logo/东森新闻.png" group-title="台湾频道",台湾丨东森新闻
-http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="台湾频道",台湾丨中天新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="台湾频道",台湾丨寰宇新闻台
-http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
+http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
