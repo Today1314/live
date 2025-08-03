@@ -1,40 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年7月5日
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="温馨提示",更新时间：2025年8月3日
 广播直播
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国之声.png" group-title="央广电台",央广丨CNR 1 中国之声
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/经济之声.png" group-title="央广电台",央广丨CNR 2 经济之声
 https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/音乐之声.png" group-title="央广电台",央广丨CNR 3 音乐之声
-https://rscdn-bk.ajmide.com/r_69/nglive_69.m3u8?sign=4a4754e95a22fb1ac85ce36d69450a7e&t=686a16ef
+https://radio.0472.org/?id=641
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/经典音乐广播.png" group-title="央广电台",央广丨CNR 4 经典音乐广播
-https://rscdn-bk.ajmide.com/r_70/nglive_70.m3u8?sign=d59e9a843c936d96d139cf6e3eda1798&t=686a178b
+https://radio.0472.org/?id=642
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/台海之声.png" group-title="央广电台",央广丨CNR 5 台海之声
-https://rscdn-bk.ajmide.com/r_71/nglive_71.m3u8?sign=9a913cfee73173f732c4e064bad48dd7&t=686a180e
+https://radio.0472.org/?id=643
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/神州之声.png" group-title="央广电台",央广丨CNR 6 神州之声
-https://rscdn-bk.ajmide.com/r_72/nglive_72.m3u8?sign=ee1aa99ed54a2fbbb0e624ed5673c4fb&t=686a188c
+https://radio.0472.org/?id=644
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/大湾区之声.png" group-title="央广电台",央广丨CNR 7 大湾区之声
-https://rscdn-bk.ajmide.com/r_2407/nglive_2407.m3u8?sign=90b42532ed113d0e1bdc62f26c766e8d&t=686a198d
+https://radio.0472.org/?id=645
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/民族之声.png" group-title="央广电台",央广丨CNR 8 民族之声
-https://rscdn-bk.ajmide.com/r_75/nglive_75.m3u8?sign=db9142fad7dea39875f99100561eabbc&t=686a19aa
+https://radio.0472.org/?id=647
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/文艺之声.png" group-title="央广电台",央广丨CNR 9 文艺之声
-https://rscdn-bk.ajmide.com/r_76/nglive_76.m3u8?sign=41a70144052de8a75721b90de2f94f8c&t=686a19c0
+https://radio.0472.org/?id=648
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/老年之声.png" group-title="央广电台",央广丨CNR 10 老年之声
-https://rscdn-bk.ajmide.com/r_77/nglive_77.m3u8?sign=d5c597520f8894ca441ce3176b55db96&t=686a19d6
+https://radio.0472.org/?id=649
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/藏语广播.png" group-title="央广电台",央广丨CNR 11 藏语广播
-https://rscdn-bk.ajmide.com/r_79/nglive_79.m3u8?sign=27863247e7f11e361e185d0e5b140c83&t=686a19ef
+https://radio.0472.org/?id=650
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/阅读之声.png" group-title="央广电台",央广丨CNR 12 阅读之声
-https://rscdn-bk.ajmide.com/r_80/nglive_80.m3u8?sign=4fd36b0d0a807f0c406816d484343368&t=686a1a01
+https://radio.0472.org/?id=652
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/维吾尔语广播.png" group-title="央广电台",央广丨CNR 13 维语广播
-https://rscdn-bk.ajmide.com/r_78/nglive_78.m3u8?sign=8673cfec58448916a75e8e811180445d&t=686a1a1b
+https://radio.0472.org/?id=651
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/香港之声.png" group-title="央广电台",央广丨CNR 14 香港之声
-https://rscdn-bk.ajmide.com/r_74/nglive_74.m3u8?sign=52b8b56df809ce372bef4a63f1fbd544&t=686a1a38
+https://radio.0472.org/?id=646
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/中国交通广播.png" group-title="央广电台",央广丨CNR 15 中国交通广播
-https://rscdn-bk.ajmide.com/r_81/nglive_81.m3u8?sign=57f02884d97b46fc9833378e585094e2&t=686a1a99
+https://radio.0472.org/?id=653
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/乡村之声.png" group-title="央广电台",央广丨CNR 16 中国乡村之声
-https://rscdn-bk.ajmide.com/r_82/nglive_82.m3u8?sign=a226bb0acb89fad31866c2e9ecb9e5cf&t=686a1aaa
+https://radio.0472.org/?id=654
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/哈萨克语广播.png" group-title="央广电台",央广丨CNR 17 哈语广播
-https://rscdn-bk.ajmide.com/r_1448/nglive_1448.m3u8?sign=3650699551f4e55f9fbd2c7493bcd3d1&t=686a1abd
+https://radio.0472.org/?id=655
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/浙江之声.png" group-title="浙江电台",浙江丨浙江之声
 http://ali-m-l.cztv.com/channels/lantian/fm88/128k.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/浙江经济广播.png" group-title="浙江电台",浙江丨财富广播
@@ -60,18 +60,18 @@ http://play-sh13.quklive.com/live/1675149748146301.m3u8?auth_key=2028196348-a093
 #EXTINF:-1 tvg-logo="https://tv.iill.top/fm/1715&logo" group-title="        ┕平湖电台",平湖丨交通生活广播
 http://play-sh13.quklive.com/live/1690167926636110.m3u8?auth_key=2027669399-ef1a37b1ad1d447e9aa99a96928dda79-0-7206a7e04b52a208c58e01566cfe0a1b&ipcity__1982=n40xRD9D07iQi%3DN4GNcjxUEODuADgDiwbTYhawD
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海新闻广播.png" group-title="上海电台",上海丨新闻广播
-https://rscdn-bk.ajmide.com/r_7/nglive_7.m3u8?sign=9fbfc301b4a8612d42b32b5cff6e28db&t=686a1c05
+https://radio.0472.org/?id=849
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/长三角之声.png" group-title="上海电台",上海丨长三角之声
-https://rscdn-bk.ajmide.com/r_12/nglive_12.m3u8?sign=6c91e0ef1bab609b93c3b73060ab2634&t=686a1c3c
+https://radio.0472.org/?id=843
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海交通广播.png" group-title="上海电台",上海丨交通广播
-https://rscdn-bk.ajmide.com/r_1/nglive_1.m3u8?sign=40b650d180d32401b3eee6665d3b5387&t=686a1c4f
+https://radio.0472.org/?id=1312
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/第一财经广播.png" group-title="上海电台",上海丨第一财经广播
-https://rscdn-bk.ajmide.com/r_5/nglive_5.m3u8?sign=0e76eddd561f862b255a9f6efd0095dd&t=686a1c62
+https://radio.0472.org/?id=370
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/动感101.png" group-title="上海电台",上海丨流行音乐广播 动感101
-https://rscdn-bk.ajmide.com/r_11/nglive_11.m3u8?sign=1b1995c8b59796a1b5631a418bd5d9bf&t=686a1c79
+https://radio.0472.org/?id=1311
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/loveradio.png" group-title="上海电台",上海丨经典金曲广播 Love Radio103.7
-https://rscdn-bk.ajmide.com/r_2/nglive_2.m3u8?sign=2e182dcf93609e41d20f5333599ffe27&t=686a1c8a
+https://radio.0472.org/?id=1313
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海经典947.png" group-title="上海电台",上海丨经典音乐广播 经典947
-https://rscdn-bk.ajmide.com/r_10/nglive_10.m3u8?sign=277f1ead5020f9fe66db60d3034ee908&t=686a1c9c
+https://radio.0472.org/?id=1316
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/radio/上海戏曲广播.png" group-title="上海电台",上海丨戏曲广播
-https://rscdn-bk.ajmide.com/r_6/nglive_6.m3u8?sign=66097a442b04de9e04a0eb55a0622dac&t=686a1cad
+https://radio.0472.org/?id=1314
